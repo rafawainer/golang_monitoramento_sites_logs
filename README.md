@@ -5,7 +5,7 @@ Primeiro serviço em Golang para monitorar sites, com get de http e gerando logs
 
 ![Amazon_Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![PyCharm_Badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 
 
 ![graphic_usage](https://github-readme-stats.vercel.app/api/top-langs/?username=rafawainer)
