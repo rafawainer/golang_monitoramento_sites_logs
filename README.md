@@ -1,7 +1,7 @@
 # golang_monitoramento_sites_logs
 Primeiro serviço em Golang para monitorar sites, com get de http e gerando logs.
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 ![Amazon_Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
